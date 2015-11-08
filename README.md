@@ -1,7 +1,8 @@
 # rails-samples
 
 ## sorcery
-sorcery is a authendication library for ruby on rails.
+sorcery is a authendication library for ruby on rails. sample is 
+[here](https://github.com/childbamboo/rails-samples/tree/master/sorcery).
 
 ## How to set up basic a project.
 It's easy to use following template. 
