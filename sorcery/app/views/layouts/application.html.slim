@@ -11,13 +11,15 @@ html
     #nav
       - if current_user
         = link_to "Edit Profile", edit_user_path(current_user.id)
+        | |
         = link_to "Logout", :logout, method: :post
       - else
         = link_to "Register", new_user_path
+        | |
         = link_to "Login", :login
     div
       p#notice
         = flash[:notice]
-      p#alert"
+      p#alert
         = flash[:alert]
     = yield
