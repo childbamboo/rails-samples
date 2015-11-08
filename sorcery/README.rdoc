@@ -1,5 +1,7 @@
 == README
 
+http://dev.classmethod.jp/server-side/ruby-on-rails/ruby-on-rails_sorcery_auth_no1/
+
 This README would normally document whatever steps are necessary to get the
 application up and running.
 
