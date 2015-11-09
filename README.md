@@ -4,6 +4,9 @@
 sorcery is a authendication library for ruby on rails. sample is 
 [here](https://github.com/childbamboo/rails-samples/tree/master/sorcery).
 
+## delayed_jos
+sample is [here](https://github.com/childbamboo/rails-samples/tree/master/delayed_job).
+
 ## How to set up basic project.
 It's easy to use following template. 
 ```
